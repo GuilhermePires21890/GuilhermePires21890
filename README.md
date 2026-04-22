@@ -54,7 +54,7 @@ Coordinator of **BSides Porto** — community-driven security conference at ISEP
 
 ## 📌 Now
 
-- 🏗️ **SEGU IAM Fase 2** — Identity governance solution for Telefónica España (Power Platform)
+- 🏗️ **SEGU IAM Fase 2** — Identity governance solution for TELCO España (Power Platform)
 - 🔐 **Cross Intel** — HRM training programs and cybersecurity assessments (Iberian + CPLP)
 - 🎤 **BSides Porto 2026** — Coordinating June edition at ISEP, Porto
 - 🇵🇹 Based in Vila Nova de Gaia · Open to remote enterprise projects
