@@ -1,7 +1,7 @@
 # Guilherme Pires · @GuilhermePires21890
 
 **Power Platform Consultant · Solution Architect · Cybersecurity**
-📍 Porto, Portugal · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilhermepires21890@gmail.com
+📍 Porto, Portugal · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilherme21890@hotmail.com
 
 ---
 
@@ -64,5 +64,5 @@ Coordinator of **BSides Porto** — community-driven security conference at ISEP
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepires90)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guilhermepires21890@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guilherme21890@hotmail.com)
 [![BSides Porto](https://img.shields.io/badge/BSides_Porto-222222?style=flat&logo=hackaday&logoColor=white)](https://bsidesporto.org)
