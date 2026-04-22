@@ -1,5 +1,4 @@
 # Guilherme Pires · @GuilhermePires21890
-# Guilherme Pires · @GuilhermePires21890
 
 **Power Platform Consultant · Solution Architect · Cybersecurity**
 📍 Porto, Portugal · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilhermepires21890@gmail.com
