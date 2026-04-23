@@ -12,10 +12,10 @@ I build enterprise solutions at the intersection of **automation**, **identity g
 Currently working as a **Power Platform Consultant** at Smart Technologies (BINNGRO Group),
 architecting IAM and ITSM solutions for Telefónica España on Microsoft Power Platform.
 
-Solution Architect of **Cross Intel** — a cybersecurity consultancy focused on
+Solution Architect of **Cross Intel** - a cybersecurity consultancy focused on
 Human Risk Management (HRM) and security awareness for the Iberian and CPLP markets.
 
-Coordinator of **BSides Porto** — community-driven security conference at ISEP (June 2026).
+Coordinator of **BSides Porto** - community-driven security conference at ISEP (June 2026).
 
 ---
 
@@ -45,7 +45,7 @@ Coordinator of **BSides Porto** — community-driven security conference at ISEP
 
 | Project | Description | Stack |
 |---|---|---|
-| [BSides Passport PWA](https://github.com/GuilhermePires21890/bsides-passport-pwa) | Sponsor engagement PWA for BSides Porto — QR check-in, leaderboard, full-stack production app | NestJS · Prisma · React · Vite |
+| [BSides Passport PWA](https://github.com/GuilhermePires21890/bsides-passport-pwa) | Sponsor engagement PWA for BSides Porto - QR check-in, leaderboard, full-stack production app | NestJS · Prisma · React · Vite |
 | [Quiz Gamification App](https://github.com/GuilhermePires21890/FlaskMiniProjeto) | Web quiz platform with Azure Cosmos DB backend, Azure Functions integration and CI/CD pipeline | Python · Flask · Azure Functions · CosmosDB |
 | [PP IAM Canvas Starter](https://github.com/GuilhermePires21890/pp-iam-canvas-starter) | Power Apps Canvas boilerplate for IAM request management workflows | Power Apps · Dataverse · Power Automate |
 | [BEC Awareness Kit](https://github.com/GuilhermePires21890/cross-intel-bec-awareness) | Business Email Compromise awareness content based on real documented incidents | HTML · PowerPoint · Security |
@@ -54,9 +54,9 @@ Coordinator of **BSides Porto** — community-driven security conference at ISEP
 
 ## 📌 Now
 
-- 🏗️ **SEGU IAM Fase 2** — Identity governance solution for TELCO España (Power Platform)
-- 🔐 **Cross Intel** — HRM training programs and cybersecurity assessments (Iberian + CPLP)
-- 🎤 **BSides Porto 2026** — Coordinating June edition at ISEP, Porto
+- 🏗️ **SEGU IAM Fase 2** - Identity governance solution for TELCO España (Power Platform)
+- 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
+- 🎤 **BSides Porto 2026** - Coordinating June edition at ISEP, Porto
 - 🇵🇹 Based in Vila Nova de Gaia · Open to remote enterprise projects
 
 ---
