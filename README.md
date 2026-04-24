@@ -10,7 +10,7 @@
 I build enterprise solutions at the intersection of **automation**, **identity governance**, and **security**.
 
 Currently working as a **Power Platform Consultant** at Smart Technologies (BINNGRO Group),
-architecting IAM and ITSM solutions for Telefónica España on Microsoft Power Platform.
+architecting IAM and ITSM solutions for enterprise TELCO clients on Microsoft Power Platform.
 
 Solution Architect of **Cross Intel** - a cybersecurity consultancy focused on
 Human Risk Management (HRM) and security awareness for the Iberian and CPLP markets.
@@ -54,7 +54,7 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 
 ## 📌 Now
 
-- 🏗️ **SEGU IAM Fase 2** - Identity governance solution for TELCO España (Power Platform)
+- 🏗️ **IAM Governance Fase 2** — Identity governance solution for enterprise TELCO client (Power Platform)
 - 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
 - 🎤 **BSides Porto 2026** - Coordinating June edition at ISEP, Porto
 - 🇵🇹 Based in Vila Nova de Gaia · Open to remote enterprise projects
