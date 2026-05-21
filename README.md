@@ -49,12 +49,13 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 | [Quiz Gamification App](https://github.com/GuilhermePires21890/FlaskMiniProjeto) | Web quiz platform with Azure Cosmos DB backend, Azure Functions integration and CI/CD pipeline | Python · Flask · Azure Functions · CosmosDB |
 | [PP IAM Canvas Starter](https://github.com/GuilhermePires21890/pp-iam-canvas-starter) | Power Apps Canvas boilerplate for IAM request management workflows | Power Apps · Dataverse · Power Automate |
 | [BEC Awareness Kit](https://github.com/GuilhermePires21890/cross-intel-bec-awareness) | Business Email Compromise awareness content based on real documented incidents | HTML · PowerPoint · Security |
+| [NBA Data Platform](https://github.com/GuilhermePires21890/nba-data-platform-reconstruction) | End-to-end sports analytics platform - 25 NBA seasons, Championship Predictor model, 3-Point Revolution trend analysis | Python · PostgreSQL · Docker · Metabase |
 
 ---
 
 ## 📌 Now
 
-- 🏗️ **IAM Governance Fase 2** — Identity governance solution for enterprise TELCO client (Power Platform)
+- 🏗️ **IAM Governance Fase 2** - Identity governance solution for enterprise TELCO client (Power Platform)
 - 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
 - 🎤 **BSides Porto 2026** - Coordinating June edition at ISEP, Porto
 - 🇵🇹 Based in Vila Nova de Gaia · Open to remote enterprise projects
