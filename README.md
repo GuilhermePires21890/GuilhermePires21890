@@ -35,15 +35,15 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Security & Compliance**
-![GDPR](https://img.shields.io/badge/GDPR-003399?style=flat&logo=europeanunion&logoColor=white)
-![NIS2](https://img.shields.io/badge/NIS2-CC0000?style=flat&logoColor=white)
-
 **Data Engineering**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+
+**Security & Compliance**
+![GDPR](https://img.shields.io/badge/GDPR-003399?style=flat&logo=europeanunion&logoColor=white)
+![NIS2](https://img.shields.io/badge/NIS2-CC0000?style=flat&logoColor=white)
 
 ---
 
