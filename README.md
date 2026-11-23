@@ -1,7 +1,7 @@
 # Guilherme Pires · @GuilhermePires21890
 
 **Solution Architect · Cybersecurity · Power Platform Consultant**
-📍 Porto, Portugal · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilherme21890@hotmail.com
+📍 Brazil · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilherme21890@hotmail.com
 
 ---
 
@@ -64,7 +64,7 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 - 🏗️ **IAM Governance Fase 2** - Identity governance solution for enterprise TELCO client (Power Platform)
 - 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
 - 🎤 **BSides Porto 2026** - Coordinating June edition at ISEP, Porto
-- 🇵🇹 Based in Vila Nova de Gaia · Open to remote enterprise projects
+- 🇧🇷 Based in Brazil · Open to remote enterprise projects
 
 ---
 
