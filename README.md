@@ -8,13 +8,13 @@
 
 I build enterprise solutions at the intersection of **automation**, **identity governance**, and **security**.
 
-Currently working as a **Power Platform Consultant** at a Portuguese IT services group,
-architecting IAM and ITSM solutions for enterprise TELCO clients on Microsoft Power Platform.
+Currently working as a **Solutions Architect** at a Portuguese IT services group,
+providing access governance and identity lifecycle consulting for enterprise clients.
 
 Partner | Client Success & New Business Lead at **Cross-Intel** - a cybersecurity consultancy focused on
 Human Risk Management (HRM) and security awareness for the Iberian and CPLP markets.
 
-Coordinator of **BSides Porto** - community-driven security conference at ISEP (June 2026).
+Co-coordinator of **BSides Porto** - community-driven security conference at ISEP.
 
 ---
 
@@ -60,7 +60,7 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 
 ## 📌 Now
 
-- 🏗️ **IAM Governance Fase 2** - Identity governance solution for enterprise TELCO client (Power Platform)
+- 🏗️ **Access governance consulting** - Identity lifecycle and governance advisory across two parallel enterprise engagements
 - 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
 - 🎤 **BSides Porto 2027** - Coordinating the next edition (May), ISEP, Porto
 - 🇧🇷 Based in Brazil · Open to remote enterprise projects
