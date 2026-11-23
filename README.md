@@ -1,18 +1,17 @@
 # Guilherme Pires · @GuilhermePires21890
 
-**Solution Architect · Cybersecurity · Power Platform Consultant**
-📍 Brazil · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90) · ✉️ guilherme21890@hotmail.com
-
+**Solution Architect · Cybersecurity**
+📍 Brazil · 🔗 [LinkedIn](https://linkedin.com/in/guilhermepires90)
 ---
 
 ## 🧭 About
 
 I build enterprise solutions at the intersection of **automation**, **identity governance**, and **security**.
 
-Currently working as a **Power Platform Consultant** at Smart Technologies (BINNGRO Group),
+Currently working as a **Power Platform Consultant** at a Portuguese IT services group,
 architecting IAM and ITSM solutions for enterprise TELCO clients on Microsoft Power Platform.
 
-Solution Architect of **Cross Intel** - a cybersecurity consultancy focused on
+Partner | Client Success & New Business Lead at **Cross-Intel** - a cybersecurity consultancy focused on
 Human Risk Management (HRM) and security awareness for the Iberian and CPLP markets.
 
 Coordinator of **BSides Porto** - community-driven security conference at ISEP (June 2026).
@@ -63,7 +62,7 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 
 - 🏗️ **IAM Governance Fase 2** - Identity governance solution for enterprise TELCO client (Power Platform)
 - 🔐 **Cross Intel** - HRM training programs and cybersecurity assessments (Iberian + CPLP)
-- 🎤 **BSides Porto 2026** - Coordinating June edition at ISEP, Porto
+- 🎤 **BSides Porto 2027** - Coordinating the next edition (May), ISEP, Porto
 - 🇧🇷 Based in Brazil · Open to remote enterprise projects
 
 ---
@@ -71,5 +70,4 @@ Coordinator of **BSides Porto** - community-driven security conference at ISEP (
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermepires90)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guilherme21890@hotmail.com)
 [![BSides Porto](https://img.shields.io/badge/BSides_Porto-222222?style=flat&logo=hackaday&logoColor=white)](https://bsidesporto.org)
