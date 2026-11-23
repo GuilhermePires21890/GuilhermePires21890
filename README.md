@@ -8,11 +8,11 @@
 
 I build enterprise solutions at the intersection of **automation**, **identity governance**, and **security**.
 
-Currently working as a **Solutions Architect** at a Portuguese IT services group,
-providing access governance and identity lifecycle consulting for enterprise clients.
-
 Partner | Client Success & New Business Lead at **Cross-Intel** - a cybersecurity consultancy focused on
 Human Risk Management (HRM) and security awareness for the Iberian and CPLP markets.
+
+Currently working as a **Solutions Architect** at a Portuguese IT services group,
+providing access governance and identity lifecycle consulting for enterprise clients.
 
 Co-coordinator of **BSides Porto** - community-driven security conference at ISEP.
 
